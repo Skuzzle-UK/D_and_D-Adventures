@@ -1,6 +1,6 @@
 Download the entire directory for the full adventure.
 
-The story exists inside the docx file while the image files are there for monster stats and useful props.
+The story exists inside the pdf file while the image files are there for monster stats and useful props.
 
 This story will require a lot of logical thinking from your party to successfully navigate what seems to be a never ending torture puzzle.
 
